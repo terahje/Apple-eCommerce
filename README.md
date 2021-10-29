@@ -27,6 +27,8 @@ This project highlights Apple and all its glory! The landing page has a floating
 
 ## Credits
 
+Code And Create
+
 ## Questions :question:
 
 For further questions on this project or future collaboration contact me at:<br>
